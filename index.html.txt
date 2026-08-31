@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>profil saya</title>
+  </head>
+  <body style="background-color: khaki">
+    <center>
+      <h2
+        style="background-color: aqua; display: inline-block; padding: 5px 10px"
+      >
+        Hallo Semuanya! Perkenalkan....
+      </h2>
+      <h3>Saya :Arkius Enggalim</h3>
+      <h3>Npm :25411014</h3>
+      <h3>Jurusan :Teknik Informatika</h3>
+      <h3>Fakultas :FIKOM</h3>
+    </center>
+  </body>
+</html>
